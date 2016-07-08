@@ -1,3 +1,1 @@
-<<<<<<< HEAD
 вносим правку в файл в ветке developer //здесь был разработчик из ветки developer-feature1
->>>>>>> develop-feature2
